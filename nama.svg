@@ -4,7 +4,7 @@
       <style>
         @keyframes gradientText {
           0% {
-            background-position: 0% 50%;
+            background-position: 0% 60%;
           }
           50% {
             background-position: 100% 50%;
@@ -106,15 +106,15 @@
         }
       </style>
       <h1>XAKIMBAYEV</h1>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">‍👨‍💻</div>
       <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💰</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">‍👨‍💻</div>
       <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💰</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">‍👨‍💻</div>
       <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💰</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">‍👨‍💻</div>
       <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💰</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">‍👨‍💻</div>
     </div>
   </foreignObject>
 </svg>
