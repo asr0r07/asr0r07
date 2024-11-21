@@ -14,5 +14,4 @@
 
 <a href="https://t.me/asr0r_07"><img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
 Me</a></br>
-<img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
 </br>
