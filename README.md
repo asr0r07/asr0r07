@@ -12,6 +12,6 @@
 
 ## Telegram
 
-<a href="https://t.me/asr0r_07"><img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
+<a href="https://t.me/Asr0r_07"><img width="12px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
 Me</a></br>
 </br>
